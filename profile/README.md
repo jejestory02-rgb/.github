@@ -1,5 +1,4 @@
-7962206453:AAGCD8U1HMjrSWi2_w3jkke6tgmZIy5EGcM## Hi there 👋
-
+>
 <!--
 **jejestory02-rgb/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
